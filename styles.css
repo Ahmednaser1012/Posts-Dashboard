@@ -349,3 +349,8 @@ button:disabled {
         font-size: 6px;
     }
 }
+@media (max-width: 375px) {
+    .posts-table {
+        font-size: 2px;
+    }
+}
