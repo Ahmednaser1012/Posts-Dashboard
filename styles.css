@@ -344,3 +344,8 @@ button:disabled {
     flex-direction: column;
   }
 }
+@media (max-width: 425px) {
+    .posts-table {
+        font-size: 6px;
+    }
+}
